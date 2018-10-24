@@ -1,0 +1,866 @@
+[
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "NobleDEN Hotel",
+            "address": "196 Grand Street, New York, NY, 10013, United States",
+            "nightlyPrice": "$213",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/oJ9CJjzxKegMTWgDydNIapCrPmA=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/9000000/8690000/8682300/8682234/d77a4b61_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Freehand New York",
+            "address": "23 Lexington Ave, New York, NY, 10010, United States",
+            "nightlyPrice": "$254",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/l-bDeFtiBnXVLI51d3LHNht9DwQ=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/21000000/20880000/20875100/20875005/1e069f5b_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Grand Hyatt New York",
+            "address": "109 East 42nd Street, at Grand Central Terminal, New York, NY, 10017, United States",
+            "nightlyPrice": "",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/q3BYq_UWLtNxHLqb2mijlrHpBwE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/23700/23677/c481fb9e_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "PUBLIC, an Ian Schrager hotel",
+            "address": "215 Chrystie St, New York, NY, 10002, United States",
+            "nightlyPrice": "$295",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/bMCWKCC0bavXUvQubslU4ll1KCc=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/18000000/17120000/17117100/17117062/5501447e_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Aliz Hotel Times Square",
+            "address": "310 W. 40th Street, New York, NY, 10018, United States",
+            "nightlyPrice": "$302",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/k7kjU_I7Em8rCghN5BFShUq_zkU=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/25000000/24410000/24408400/24408324/f033b787_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "San Carlos Hotel",
+            "address": "150 E 50th St, New York, NY, 10022, United States",
+            "nightlyPrice": "$274",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/BuTqKUw9Y-_csJrXZcuhJFOL_IE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/12100/12058/12058_214_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Row NYC",
+            "address": "700 8th Avenue, New York, NY, 10036, United States",
+            "nightlyPrice": "$261",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/XTq0GjEy6CZY2ZDTwbiiyAIpJQs=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/25100/25033/25033_177_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Holiday Inn Secaucus Meadowlands",
+            "address": "300 Plaza Drive, Secaucus, NJ, 07094, United States",
+            "nightlyPrice": "$130",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/zo_hLNnlb8eIUVGJmEFOGwrJF1M=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/900/845/3bef3484_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Shelburne Hotel & Suites by Affinia",
+            "address": "303 Lexington Avenue, New York, NY, 10016, United States",
+            "nightlyPrice": "$244",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/7ADL7NAp2IaqlNgSL8z0QVI5TsM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/27300/27283/780e6a1e_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Alexis Park All Suite Resort",
+            "address": "375 E. Harmon Ave, Las Vegas, NV, 89169, United States",
+            "nightlyPrice": "$47",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/dQg7-VCji2j_0Tdq995dU0bR-rE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/14400/14362/ae63e7b2_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "JW Marriott Las Vegas Resort & Spa",
+            "address": "221 N Rampart Blvd, Las Vegas, NV, 89144, United States",
+            "nightlyPrice": "$144",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/MryK1h8KDQv5lEolzMhWzGQ4jnM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/430000/426600/426550/438b4465_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Main Street Station Hotel, Casino and Brewery",
+            "address": "200 N Main St, Las Vegas, NV, 89101, United States",
+            "nightlyPrice": "",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/6iE6mTqtpENWD8fdI8JQckfjtfo=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/70000/67300/67274/1fa99568_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Venetian Las Vegas",
+            "address": "3355 Las Vegas Blvd S, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$127",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/gmeV9uvsX1XQL6eZsKac-OXOpIM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/1500/1443/d73823db_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Tuscany Suites & Casino",
+            "address": "255 E Flamingo Rd, Las Vegas, NV, 89169, United States",
+            "nightlyPrice": "$56",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/nFzMXI9Hxi9LN7G0AEtOwmSo8tM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/860000/853000/852937/c332fc6f_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Flamingo Las Vegas - Hotel & Casino",
+            "address": "3555 Las Vegas Blvd S, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$70",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/FsDOBnzGKRmEW86vBi8_sFyHvnE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/14000/13945/e6af1467_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Holiday Inn Express Hotel & Suites Henderson",
+            "address": "441 Astaire Drive, Henderson, NV, 89014, United States",
+            "nightlyPrice": "$117",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/atYQH5OvNQqI_tXpkHjKVV64zq4=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/700000/690900/690893/690893_257_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Holiday Inn Express Las Vegas South",
+            "address": "5760 Polaris Ave, Las Vegas, NV, 89118, United States",
+            "nightlyPrice": "$135",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/9Cb__YYx4ScR1OTrHPJTi58qTKI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1050000/1040700/1040689/1040689_221_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Bally's Las Vegas - Hotel & Casino",
+            "address": "3645 Las Vegas Blvd S, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$78",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/VsAb5C_r3aNOMiGAM_3BcGXOYjI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/7700/7611/8b8f751d_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Alexis Park All Suite Resort",
+            "address": "375 E. Harmon Ave, Las Vegas, NV, 89169, United States",
+            "nightlyPrice": "$74",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/dQg7-VCji2j_0Tdq995dU0bR-rE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/14400/14362/ae63e7b2_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Palazzo at The Venetian",
+            "address": "3325 Las Vegas Blvd. South, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$203",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/aMGjs4dktQvk4Orio3TSuLxWreI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1770000/1770000/1769973/a842d02c_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Tahiti Village Resort & Spa",
+            "address": "7200 Las Vegas Blvd S, Las Vegas, NV, 89119, United States",
+            "nightlyPrice": "",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/FXtbLGT2qQ9W7vM4PUi3_XsOxy4=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1450000/1445800/1445791/3c7df4c6_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Venetian Las Vegas",
+            "address": "3355 Las Vegas Blvd S, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$179",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/gmeV9uvsX1XQL6eZsKac-OXOpIM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/1500/1443/d73823db_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Palazzo at The Venetian",
+            "address": "3325 Las Vegas Blvd. South, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$203",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/aMGjs4dktQvk4Orio3TSuLxWreI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1770000/1770000/1769973/a842d02c_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Gold Coast Hotel and Casino",
+            "address": "4000 W Flamingo Rd, Las Vegas, NV, 89103, United States",
+            "nightlyPrice": "$76",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/fSP3mWpE_u50zoz8XnYVDjtmLUM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/50000/41100/41076/c09d397b_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Holiday Inn Express Hotel & Suites Henderson",
+            "address": "441 Astaire Drive, Henderson, NV, 89014, United States",
+            "nightlyPrice": "$135",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/atYQH5OvNQqI_tXpkHjKVV64zq4=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/700000/690900/690893/690893_257_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Holiday Inn Express Las Vegas South",
+            "address": "5760 Polaris Ave, Las Vegas, NV, 89118, United States",
+            "nightlyPrice": "$144",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/9Cb__YYx4ScR1OTrHPJTi58qTKI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1050000/1040700/1040689/1040689_221_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "TI - Treasure Island Hotel and Casino",
+            "address": "3300 Las Vegas Blvd S, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$119",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/mqKQKtOIh_fJRREfogXO9BnMwS0=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/16000/15930/3e1027e5_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Alexis Park All Suite Resort",
+            "address": "375 E. Harmon Ave, Las Vegas, NV, 89169, United States",
+            "nightlyPrice": "$52",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/dQg7-VCji2j_0Tdq995dU0bR-rE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/14400/14362/ae63e7b2_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Palazzo at The Venetian",
+            "address": "3325 Las Vegas Blvd. South, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$143",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/aMGjs4dktQvk4Orio3TSuLxWreI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1770000/1770000/1769973/a842d02c_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Westin Las Vegas Hotel & Spa",
+            "address": "160 E Flamingo Rd, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/6o180xAWh8VtDITMYtPXGSsEQ_Y=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/7300/7293/cdc4455c_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Venetian Las Vegas",
+            "address": "3355 Las Vegas Blvd S, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$127",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/gmeV9uvsX1XQL6eZsKac-OXOpIM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/1500/1443/d73823db_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Trump International Hotel Las Vegas",
+            "address": "2000 Fashion Show Drive, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$132",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/1W19ZGicjikmhg2TZQ2x-cOt4Lc=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1860000/1857300/1857289/d58a6ec1_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Palazzo at The Venetian",
+            "address": "3325 Las Vegas Blvd. South, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$143",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/aMGjs4dktQvk4Orio3TSuLxWreI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1770000/1770000/1769973/a842d02c_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "JW Marriott Las Vegas Resort & Spa",
+            "address": "221 N Rampart Blvd, Las Vegas, NV, 89144, United States",
+            "nightlyPrice": "$159",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/MryK1h8KDQv5lEolzMhWzGQ4jnM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/430000/426600/426550/438b4465_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Holiday Inn Club Vacations at Desert Club Resort",
+            "address": "3950 Koval Lane, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$211",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/eQ5kpLe6kL7DfYr9KhzvgdUPuBs=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1150000/1140200/1140159/1392fc27_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Tuscany Suites & Casino",
+            "address": "255 E Flamingo Rd, Las Vegas, NV, 89169, United States",
+            "nightlyPrice": "$79",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/nFzMXI9Hxi9LN7G0AEtOwmSo8tM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/860000/853000/852937/c332fc6f_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Holiday Inn Manhattan-Financial District",
+            "address": "99 Washington St, New York, NY, 10006, United States",
+            "nightlyPrice": "$182",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/YxwonrjNBcfGBiJb8xO1htyl_qc=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/10000000/9060000/9057300/9057201/dd1e98db_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hyatt House New York/Chelsea",
+            "address": "815 Ave of the Americas, New York, NY, 10001, United States",
+            "nightlyPrice": "$179",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/ncaYHNuWKvQjweTh4PKjKd0xl7A=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/16000000/15220000/15216000/15215985/87ef0d25_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Grand Hyatt New York",
+            "address": "109 East 42nd Street, at Grand Central Terminal, New York, NY, 10017, United States",
+            "nightlyPrice": "",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/q3BYq_UWLtNxHLqb2mijlrHpBwE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/23700/23677/c481fb9e_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Residence Inn by Marriott New York Manhattan/Midtown East",
+            "address": "148 E 48th St, New York, NY, 10017, United States",
+            "nightlyPrice": "$186",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/7A45qUOyXWJ-vUuirq7ulm_G6Io=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/23400/23382/c3da8803_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Novotel New York - Times Square",
+            "address": "226 W 52nd St, New York, NY, 10019, United States",
+            "nightlyPrice": "$214",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/a5nm9Vwg97T6QyuS6miucby42RM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/16200/16135/f434fa12_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Courtyard New York Manhattan/Times Square West",
+            "address": "307 W 37th St, New York, NY, 10018, United States",
+            "nightlyPrice": "$188",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/j5hQ90hH-kdPEFFUlFQuUvFzAv0=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/7000000/6100000/6092900/6092805/ca394003_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Paramount Times Square",
+            "address": "235 West 46th Street, New York, NY, 10036, United States",
+            "nightlyPrice": "$201",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/VM_VnzIqS7Q8JYfWRMsnPNE2J5E=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/24300/24245/d11da326_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Iberostar 70 Park Avenue",
+            "address": "70 Park Ave, New York, NY, 10016, United States",
+            "nightlyPrice": "$258",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/_I593R1e03bLuXs8qkiwFyv-368=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/18800/18752/47d1d0dc_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The New Yorker A Wyndham Hotel",
+            "address": "481 Eighth Ave., New York, NY, 10001, United States",
+            "nightlyPrice": "$192",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/1H8GZqiUiC6AcULwpOSbJ6nm9gs=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/50000/41100/41009/72601e74_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "JW Marriott Essex House New York",
+            "address": "160 Central Park S, New York, NY, 10019, United States",
+            "nightlyPrice": "$481",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/16mdtL911tFtyR3QTTLuwt7pAhw=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/540000/534200/534143/a4f58bbc_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "PUBLIC, an Ian Schrager hotel",
+            "address": "215 Chrystie St, New York, NY, 10002, United States",
+            "nightlyPrice": "$245",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/bMCWKCC0bavXUvQubslU4ll1KCc=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/18000000/17120000/17117100/17117062/5501447e_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Radio City Apartments",
+            "address": "142 West 49th Street, New York, NY, 10019, United States",
+            "nightlyPrice": "",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/ZCScuUgFjnVRmr8hdLCbW7006rI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/7000000/6850000/6843000/6842904/6842904_52_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Park Central Hotel New York",
+            "address": "870 7th Ave, New York, NY, 10019, United States",
+            "nightlyPrice": "$157",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/MZHfM_ZC7x_brIwq8gduEHZFIRw=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/4200/4164/675037ae_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Belvedere Hotel",
+            "address": "319 W 48th St, New York, NY, 10036, United States",
+            "nightlyPrice": "$182",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/cpO4Ffl3B3Yx7tKMr3xXjhY0KK0=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/110000/104200/104193/0db0d221_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Shelburne Hotel & Suites by Affinia",
+            "address": "303 Lexington Avenue, New York, NY, 10016, United States",
+            "nightlyPrice": "$178",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/7ADL7NAp2IaqlNgSL8z0QVI5TsM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/27300/27283/780e6a1e_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Freehand New York",
+            "address": "23 Lexington Ave, New York, NY, 10010, United States",
+            "nightlyPrice": "$194",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/l-bDeFtiBnXVLI51d3LHNht9DwQ=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/21000000/20880000/20875100/20875005/1e069f5b_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "SpringHill Suites by Marriott New York Midtown Manhattan",
+            "address": "25 West 37th St, New York, NY, 10018, United States",
+            "nightlyPrice": "$201",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/9JYZ7aOBm6nOtc2GbCZs8Orb7-w=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/6000000/5870000/5862200/5862121/3b95ef1a_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Grand Hyatt New York",
+            "address": "109 East 42nd Street, at Grand Central Terminal, New York, NY, 10017, United States",
+            "nightlyPrice": "$159",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/q3BYq_UWLtNxHLqb2mijlrHpBwE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/23700/23677/c481fb9e_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Belvedere Hotel",
+            "address": "319 W 48th St, New York, NY, 10036, United States",
+            "nightlyPrice": "$229",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/cpO4Ffl3B3Yx7tKMr3xXjhY0KK0=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/110000/104200/104193/0db0d221_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Freehand New York",
+            "address": "23 Lexington Ave, New York, NY, 10010, United States",
+            "nightlyPrice": "$219",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/l-bDeFtiBnXVLI51d3LHNht9DwQ=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/21000000/20880000/20875100/20875005/1e069f5b_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hampton Inn Times Square North",
+            "address": "851 8th Ave, New York, NY, 10019, United States",
+            "nightlyPrice": "",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/FD9cda3r0vGdiDzY_AmUk2AiKU0=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/17600/17583/ecda8406_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "PUBLIC, an Ian Schrager hotel",
+            "address": "215 Chrystie St, New York, NY, 10002, United States",
+            "nightlyPrice": "$295",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/bMCWKCC0bavXUvQubslU4ll1KCc=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/18000000/17120000/17117100/17117062/5501447e_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Shelburne Hotel & Suites by Affinia",
+            "address": "303 Lexington Avenue, New York, NY, 10016, United States",
+            "nightlyPrice": "$195",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/7ADL7NAp2IaqlNgSL8z0QVI5TsM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/27300/27283/780e6a1e_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Park Central Hotel New York",
+            "address": "870 7th Ave, New York, NY, 10019, United States",
+            "nightlyPrice": "$209",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/MZHfM_ZC7x_brIwq8gduEHZFIRw=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/4200/4164/675037ae_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Row NYC",
+            "address": "700 8th Avenue, New York, NY, 10036, United States",
+            "nightlyPrice": "$225",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/XTq0GjEy6CZY2ZDTwbiiyAIpJQs=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/25100/25033/25033_177_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "JW Marriott Essex House New York",
+            "address": "160 Central Park S, New York, NY, 10019, United States",
+            "nightlyPrice": "$747",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/16mdtL911tFtyR3QTTLuwt7pAhw=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/540000/534200/534143/a4f58bbc_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Pod Times Square",
+            "address": "400 W 42nd Street, New York, NY, 10036, United States",
+            "nightlyPrice": "$189",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/-H1Fg9cjjXSqt4BkieWu5majrn0=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/20000000/19690000/19681400/19681371/145313b6_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Alexis Park All Suite Resort",
+            "address": "375 E. Harmon Ave, Las Vegas, NV, 89169, United States",
+            "nightlyPrice": "$70",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/dQg7-VCji2j_0Tdq995dU0bR-rE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/14400/14362/ae63e7b2_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Holiday Inn Express Hotel & Suites Henderson",
+            "address": "441 Astaire Drive, Henderson, NV, 89014, United States",
+            "nightlyPrice": "$123",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/atYQH5OvNQqI_tXpkHjKVV64zq4=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/700000/690900/690893/690893_257_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Tahiti Village Resort & Spa",
+            "address": "7200 Las Vegas Blvd S, Las Vegas, NV, 89119, United States",
+            "nightlyPrice": "",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/FXtbLGT2qQ9W7vM4PUi3_XsOxy4=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1450000/1445800/1445791/3c7df4c6_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Venetian Las Vegas",
+            "address": "3355 Las Vegas Blvd S, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$162",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/gmeV9uvsX1XQL6eZsKac-OXOpIM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/1500/1443/d73823db_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Bally's Las Vegas - Hotel & Casino",
+            "address": "3645 Las Vegas Blvd S, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$95",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/VsAb5C_r3aNOMiGAM_3BcGXOYjI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/7700/7611/8b8f751d_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Westgate Las Vegas Resort & Casino",
+            "address": "3000 Paradise Road, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$77",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/qANKdUUpwOYHOiskiZml2mLY4ts=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/19600/19558/19558_402_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Holiday Inn Club Vacations at Desert Club Resort",
+            "address": "3950 Koval Lane, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$165",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/eQ5kpLe6kL7DfYr9KhzvgdUPuBs=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1150000/1140200/1140159/1392fc27_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "JW Marriott Las Vegas Resort & Spa",
+            "address": "221 N Rampart Blvd, Las Vegas, NV, 89144, United States",
+            "nightlyPrice": "$201",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/MryK1h8KDQv5lEolzMhWzGQ4jnM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/430000/426600/426550/438b4465_z.jpg')"
+        }
+    },
+    {
+        "Website": "www.hotels.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Palazzo at The Venetian",
+            "address": "3325 Las Vegas Blvd. South, Las Vegas, NV, 89109, United States",
+            "nightlyPrice": "$191",
+            "hotelIMG": "url('https://thumbnails.trvl-media.com/aMGjs4dktQvk4Orio3TSuLxWreI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1770000/1770000/1769973/a842d02c_z.jpg')"
+        }
+    }
+]

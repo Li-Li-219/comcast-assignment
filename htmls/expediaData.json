@@ -1,0 +1,5281 @@
+[
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Caesars Palace - Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$194",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41245/8640cd6f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Westgate Las Vegas Resort & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$76",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19600/19558/19558_402_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Alexis Park All Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$59",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/14400/14362/ae63e7b2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Jet Luxury Resorts @ The Signature Condo Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$127",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7870000/7867500/7867463/cd729f28_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Venetian Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$203",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/1500/1443/d73823db_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Palms Place Hotel and Spa at the Palms Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$149",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1850000/1847200/1847179/1847179_102_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Cosmopolitan Of Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$275",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3820000/3818900/3818880/70487844_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "NoMad Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$207",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/30000000/29840000/29832100/29832065/c60424f7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Mandalay Bay Resort And Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$164",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/203700/203613/273ad265_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Golden Nugget Las Vegas Hotel & Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$109",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/43400/43312/43312_83_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Luxury Suites International At The Signature",
+            "address": "Las Vegas",
+            "nightlyPrice": "$130",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1880000/1877100/1877035/1877035_142_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Jet Luxury at the Vdara Condo Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$185",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7860000/7859700/7859638/7859638_3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Caesars Palace - Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$194",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41245/8640cd6f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "SLS Las Vegas ",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$112",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/20200/20194/6283d650_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Palazzo at The Venetian",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$211",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1770000/1770000/1769973/a842d02c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Polo Towers by Diamond Resorts",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$155",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1620000/1619200/1619187/1619187_65_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Wyndham Desert Blue",
+            "address": "Las Vegas",
+            "nightlyPrice": "$175",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/10000000/9450000/9442000/9441935/3f68d62d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Paris Las Vegas Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$146",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/200800/200710/f89df92f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Tahiti All-Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$97",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1160000/1156000/1155984/f655fa9e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hooters Casino Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$89",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1360000/1353500/1353440/cf9a5a6e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Flamingo Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$108",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/14000/13945/f2ccfe19_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Fremont Hotel & Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$100",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/67300/67273/67273_176_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Jockey Club Suites",
+            "address": "Las Vegas",
+            "nightlyPrice": "$199",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/25000000/24940000/24931900/24931888/2e6835a7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Trump International Hotel Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$160",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1860000/1857300/1857289/d58a6ec1_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Four Queens Hotel and Casino (No Resort Fee)",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$94",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41000/40922/40922_80_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Grandview at Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$174",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1070000/1062900/1062879/5fda69d7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Cancun Resort Las Vegas 2 Bedrooms 2 Bathrooms Condo",
+            "address": "Las Vegas",
+            "nightlyPrice": "$219",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/31000000/30470000/30464100/30464047/75d3f469_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Bally's Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$119",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7700/7611/8b8f751d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Silver Sevens Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$83",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/470000/460500/460434/460434_73_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Raintree At Polo Towers, Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$225",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/9000000/8670000/8664000/8663954/361e5c46_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The LINQ Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$100",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/9000000/8760000/8753200/8753178/8753178_25_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Arizona Charlie's Decatur - Casino Hotel & Suites",
+            "address": "Las Vegas",
+            "nightlyPrice": "$70",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/920000/913100/913050/98e91c48_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Club De Soleil All-Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$95",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/220000/215800/215776/bb4006e0_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "the D Las Vegas",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$104",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41277/41277_203_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Planet Hollywood Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$157",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15200/15117/8be67c43_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Planet Hollywood Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$157",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15200/15117/8be67c43_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "888 Three Bedroom Two Bath Suite at Convention Center Condos",
+            "address": "Las Vegas",
+            "nightlyPrice": "$439",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/14000000/13260000/13258300/13258264/07cf1fa7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "El Cortez Hotel and Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$87",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/910000/906000/905990/905990_93_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Palace Station Hotel and Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$77",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/40800/40797/79f12dc4_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Cancun Resort by Diamond Resorts",
+            "address": "Las Vegas",
+            "nightlyPrice": "$202",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1150000/1144100/1144016/1144016_114_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Wyndham Grand Desert",
+            "address": "Las Vegas",
+            "nightlyPrice": "$237",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/900000/894300/894235/894235_55_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Cosmopolitan Of Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$275",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3820000/3818900/3818880/70487844_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Main Street Station Hotel, Casino and Brewery",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$100",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/67300/67274/1fa99568_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "ARIA Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$229",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/3000000/2570000/2565800/2565776/bf90b8ab_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Marriott's Grand Chateau (No Resort Fee)",
+            "address": "Las Vegas",
+            "nightlyPrice": "$229",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1220000/1217300/1217263/c0527863_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "La Quinta Inn & Suites Las Vegas Airport North Convention",
+            "address": "Las Vegas",
+            "nightlyPrice": "$109",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/10600/10600/4d9ffa56_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Royal Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$95",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1560000/1551700/1551651/1551651_56_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Arizona Charlie's Boulder - Casino Hotel, Suites, & RV Park",
+            "address": "Las Vegas",
+            "nightlyPrice": "$66",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/63100/63082/c1942f2c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Desert Rose Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$144",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/62900/62860/62860_178_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Longhorn Casino & Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$68",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/13000000/12390000/12384500/12384405/12384405_4_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Mardi Gras Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$70",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15500/15490/68bb2641_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "TI - Treasure Island Hotel and Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$119",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/16000/15930/3e1027e5_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Bellagio",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$274",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/150000/140600/140596/40701a6a_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Rio All-Suite Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$111",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19900/19837/19837_153_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Bally's Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$119",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7700/7611/8b8f751d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Cosmopolitan Of Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$209",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3820000/3818900/3818880/70487844_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Westgate Las Vegas Resort & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$61",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19600/19558/19558_402_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Alexis Park All Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$56",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/14400/14362/ae63e7b2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Mandalay Bay Resort And Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$97",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/203700/203613/273ad265_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Golden Nugget Las Vegas Hotel & Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$89",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/43400/43312/43312_83_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Tahiti All-Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$82",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1160000/1156000/1155984/f655fa9e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Planet Hollywood Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$136",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15200/15117/8be67c43_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Polo Towers 1 Bedroom 1 Bathroom Condo",
+            "address": "Las Vegas",
+            "nightlyPrice": "$145",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/31000000/30470000/30464100/30464053/372333b0_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Jet Luxury Resorts @ The Signature Condo Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$114",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7870000/7867500/7867463/cd729f28_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Venetian Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$215",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/1500/1443/d73823db_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Grandview at Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$152",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1070000/1062900/1062879/5fda69d7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hooters Casino Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$55",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1360000/1353500/1353440/cf9a5a6e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Caesars Palace - Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$164",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41245/8640cd6f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Palms Place Hotel and Spa at the Palms Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$126",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1850000/1847200/1847179/1847179_102_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "SLS Las Vegas ",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$90",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/20200/20194/6283d650_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Palazzo at The Venetian",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$221",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1770000/1770000/1769973/a842d02c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Club De Soleil All-Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$82",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/220000/215800/215776/bb4006e0_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Jet Luxury at the Vdara Condo Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$173",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7860000/7859700/7859638/7859638_3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Bally's Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$95",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7700/7611/8b8f751d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Luxury Suites International At The Signature",
+            "address": "Las Vegas",
+            "nightlyPrice": "$116",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1880000/1877100/1877035/1877035_142_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Mardi Gras Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$60",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15500/15490/68bb2641_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Cosmopolitan Of Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$209",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3820000/3818900/3818880/70487844_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "888 Three Bedroom Two Bath Suite at Convention Center Condos",
+            "address": "Las Vegas",
+            "nightlyPrice": "$315",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/14000000/13260000/13258300/13258264/07cf1fa7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Four Queens Hotel and Casino (No Resort Fee)",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$76",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41000/40922/40922_80_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Flamingo Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$108",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/14000/13945/f2ccfe19_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Wyndham Desert Blue",
+            "address": "Las Vegas",
+            "nightlyPrice": "$154",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/10000000/9450000/9442000/9441935/3f68d62d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Planet Hollywood Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$136",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15200/15117/8be67c43_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "StripViewSuites at Palms Place",
+            "address": "Las Vegas",
+            "nightlyPrice": "$157",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/17000000/16740000/16734700/16734690/ea031012_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Silver Sevens Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$62",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/470000/460500/460434/460434_73_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Paris Las Vegas Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$142",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/200800/200710/f89df92f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Polo Towers by Diamond Resorts",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$134",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1620000/1619200/1619187/1619187_65_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Fremont Hotel & Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$83",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/67300/67273/67273_176_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Trump International Hotel Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$160",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1860000/1857300/1857289/d58a6ec1_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Jockey Club Suites",
+            "address": "Las Vegas",
+            "nightlyPrice": "$199",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/25000000/24940000/24931900/24931888/2e6835a7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Caesars Palace - Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$164",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41245/8640cd6f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "the D Las Vegas",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$81",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41277/41277_203_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The LINQ Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$114",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/9000000/8760000/8753200/8753178/8753178_25_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "StripViewSuites at Signature",
+            "address": "Las Vegas",
+            "nightlyPrice": "$206",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/28000000/27730000/27724300/27724279/371ce18e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hilton Grand Vacations on the Las Vegas Strip",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$146",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/930000/921800/921745/a332ace8_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Palace Station Hotel and Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$77",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/40800/40797/79f12dc4_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Cancun Resort by Diamond Resorts",
+            "address": "Las Vegas",
+            "nightlyPrice": "$134",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1150000/1144100/1144016/1144016_114_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Main Street Station Hotel, Casino and Brewery",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$79",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/67300/67274/1fa99568_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "ARIA Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$219",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/3000000/2570000/2565800/2565776/bf90b8ab_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Berkley Las Vegas (No Resort Fees)",
+            "address": "Las Vegas",
+            "nightlyPrice": "$146",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17870000/17863500/17863402/4a25b95a_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "El Cortez Hotel and Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$64",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/910000/906000/905990/905990_93_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Tuscany Suites & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$86",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/860000/853000/852937/c332fc6f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Arizona Charlie's Decatur - Casino Hotel & Suites",
+            "address": "Las Vegas",
+            "nightlyPrice": "$61",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/920000/913100/913050/98e91c48_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "TI - Treasure Island Hotel and Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$119",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/16000/15930/3e1027e5_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Wyndham Grand Desert",
+            "address": "Las Vegas",
+            "nightlyPrice": "$209",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/900000/894300/894235/894235_55_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Raintree At Polo Towers, Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$213",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/9000000/8670000/8664000/8663954/361e5c46_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "South Point Hotel, Casino, and Spa",
+            "address": "Las Vegas",
+            "nightlyPrice": "$96",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1310000/1309600/1309521/1309521_176_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Cannery Hotel & Casino",
+            "address": "North Las Vegas",
+            "nightlyPrice": "$91",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/980000/970100/970030/970030_17_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Cliffs at Peace Canyon",
+            "address": "Las Vegas",
+            "nightlyPrice": "$273",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1170000/1161600/1161547/83f84148_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Rio All-Suite Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$85",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19900/19837/19837_153_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Bally's Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$95",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7700/7611/8b8f751d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Caesars Palace - Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$142",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41245/8640cd6f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Westgate Las Vegas Resort & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$64",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19600/19558/19558_402_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Alexis Park All Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$52",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/14400/14362/ae63e7b2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Mandalay Bay Resort And Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$129",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/203700/203613/273ad265_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Venetian Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$143",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/1500/1443/d73823db_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "SLS Las Vegas ",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$91",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/20200/20194/6283d650_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Planet Hollywood Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$147",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15200/15117/8be67c43_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "NoMad Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$199",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/30000000/29840000/29832100/29832065/c60424f7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Golden Nugget Las Vegas Hotel & Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$89",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/43400/43312/43312_83_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Palms Place Hotel and Spa at the Palms Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$119",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1850000/1847200/1847179/1847179_102_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Jet Luxury at the Vdara Condo Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$190",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7860000/7859700/7859638/7859638_3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Caesars Palace - Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$142",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41245/8640cd6f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Silver Sevens Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$66",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/470000/460500/460434/460434_73_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Luxury Suites International At The Signature",
+            "address": "Las Vegas",
+            "nightlyPrice": "$95",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1880000/1877100/1877035/1877035_142_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Palazzo at The Venetian",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$159",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1770000/1770000/1769973/a842d02c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hooters Casino Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$79",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1360000/1353500/1353440/cf9a5a6e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Trump International Hotel Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$132",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1860000/1857300/1857289/d58a6ec1_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Fremont Hotel & Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$100",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/67300/67273/67273_176_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Tahiti Village Resort & Spa",
+            "address": "Las Vegas",
+            "nightlyPrice": "$195",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1450000/1445800/1445791/3c7df4c6_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Cosmopolitan Of Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$180",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3820000/3818900/3818880/70487844_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "El Cortez Hotel and Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$74",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/910000/906000/905990/905990_93_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Tahiti All-Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$97",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1160000/1156000/1155984/f655fa9e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Four Queens Hotel and Casino (No Resort Fee)",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$89",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41000/40922/40922_80_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Paris Las Vegas Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$123",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/200800/200710/f89df92f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Club De Soleil All-Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$88",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/220000/215800/215776/bb4006e0_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "the D Las Vegas",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$89",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41277/41277_203_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Four Seasons Hotel Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$159",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/470000/460500/460435/1ada169e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Arizona Charlie's Decatur - Casino Hotel & Suites",
+            "address": "Las Vegas",
+            "nightlyPrice": "$63",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/920000/913100/913050/98e91c48_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "ARIA Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$179",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/3000000/2570000/2565800/2565776/bf90b8ab_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Polo Towers by Diamond Resorts",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$164",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1620000/1619200/1619187/1619187_65_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Royal Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$76",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1560000/1551700/1551651/1551651_56_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Flamingo Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$94",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/14000/13945/f2ccfe19_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "La Quinta Inn & Suites Las Vegas Airport North Convention",
+            "address": "Las Vegas",
+            "nightlyPrice": "$109",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/10600/10600/4d9ffa56_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The LINQ Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$81",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/9000000/8760000/8753200/8753178/8753178_25_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Cosmopolitan Of Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$180",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3820000/3818900/3818880/70487844_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Marriott's Grand Chateau (No Resort Fee)",
+            "address": "Las Vegas",
+            "nightlyPrice": "$178",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1220000/1217300/1217263/c0527863_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Main Street Station Hotel, Casino and Brewery",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$100",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/67300/67274/1fa99568_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Bellagio",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$219",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/150000/140600/140596/40701a6a_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Arizona Charlie's Boulder - Casino Hotel, Suites, & RV Park",
+            "address": "Las Vegas",
+            "nightlyPrice": "$59",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/63100/63082/c1942f2c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Palace Station Hotel and Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$77",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/40800/40797/79f12dc4_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "888 Three Bedroom Two Bath Suite at Convention Center Condos",
+            "address": "Las Vegas",
+            "nightlyPrice": "$439",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/14000000/13260000/13258300/13258264/07cf1fa7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Longhorn Casino & Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$68",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/13000000/12390000/12384500/12384405/12384405_4_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Planet Hollywood Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$147",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15200/15117/8be67c43_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Mardi Gras Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$60",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15500/15490/68bb2641_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Cancun Resort by Diamond Resorts",
+            "address": "Las Vegas",
+            "nightlyPrice": "$202",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1150000/1144100/1144016/1144016_114_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Bally's Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$109",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7700/7611/8b8f751d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Carriage House",
+            "address": "Las Vegas",
+            "nightlyPrice": "$129",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/570000/564500/564402/98fe62ec_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Grandview at Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$333",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1070000/1062900/1062879/5fda69d7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "La Quinta Inn & Suites Las Vegas Airport South",
+            "address": "Las Vegas",
+            "nightlyPrice": "$139",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3590000/3581100/3581003/3a09eb6e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Aliante Casino & Hotel",
+            "address": "North Las Vegas",
+            "nightlyPrice": "$104",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/3000000/2240000/2233300/2233237/a472a6b3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "South Point Hotel, Casino, and Spa",
+            "address": "Las Vegas",
+            "nightlyPrice": "$109",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1310000/1309600/1309521/1309521_176_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Extended Stay America - Las Vegas - East Flamingo",
+            "address": "Las Vegas",
+            "nightlyPrice": "$112",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/201200/201199/de0fd60a_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Desert Paradise Resort by Diamond Resorts",
+            "address": "Las Vegas",
+            "nightlyPrice": "$199",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/202900/202850/202850_108_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Rio All-Suite Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$86",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19900/19837/19837_153_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Bally's Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$109",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7700/7611/8b8f751d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Caesars Palace - Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$123",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41245/8640cd6f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Westgate Las Vegas Resort & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$48",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19600/19558/19558_402_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Alexis Park All Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$47",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/14400/14362/ae63e7b2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Jet Luxury Resorts @ The Signature Condo Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$90",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7870000/7867500/7867463/cd729f28_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Golden Nugget Las Vegas Hotel & Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$69",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/43400/43312/43312_83_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Palms Place Hotel and Spa at the Palms Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$99",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1850000/1847200/1847179/1847179_102_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Cosmopolitan Of Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$170",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3820000/3818900/3818880/70487844_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "NoMad Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$199",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/30000000/29840000/29832100/29832065/c60424f7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Mandalay Bay Resort And Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$94",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/203700/203613/273ad265_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Venetian Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$191",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/1500/1443/d73823db_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Luxury Suites International At The Signature",
+            "address": "Las Vegas",
+            "nightlyPrice": "$92",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1880000/1877100/1877035/1877035_142_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "SLS Las Vegas ",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$68",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/20200/20194/6283d650_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Caesars Palace - Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$123",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41245/8640cd6f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Jet Luxury at the Vdara Condo Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$151",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7860000/7859700/7859638/7859638_3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Cosmopolitan Of Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$170",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3820000/3818900/3818880/70487844_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Tahiti All-Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$75",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1160000/1156000/1155984/f655fa9e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Silver Sevens Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$43",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/470000/460500/460434/460434_73_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Palazzo at The Venetian",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$199",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1770000/1770000/1769973/a842d02c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Tahiti Village Resort & Spa",
+            "address": "Las Vegas",
+            "nightlyPrice": "$133",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1450000/1445800/1445791/3c7df4c6_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hooters Casino Hotel",
+            "address": "Las Vegas",
+            "nightlyPrice": "$54",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1360000/1353500/1353440/cf9a5a6e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Trump International Hotel Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$146",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1860000/1857300/1857289/d58a6ec1_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Wyndham Desert Blue",
+            "address": "Las Vegas",
+            "nightlyPrice": "$143",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/10000000/9450000/9442000/9441935/3f68d62d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Paris Las Vegas Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$127",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/200800/200710/f89df92f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Polo Towers by Diamond Resorts",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$127",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1620000/1619200/1619187/1619187_65_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "El Cortez Hotel and Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$47",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/910000/906000/905990/905990_93_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Bally's Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$78",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7700/7611/8b8f751d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Grandview at Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$131",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1070000/1062900/1062879/5fda69d7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Fremont Hotel & Casino",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$75",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/67300/67273/67273_176_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Planet Hollywood Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$121",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15200/15117/8be67c43_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Jockey Club Suites",
+            "address": "Las Vegas",
+            "nightlyPrice": "$199",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/25000000/24940000/24931900/24931888/2e6835a7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "the D Las Vegas",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$62",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41300/41277/41277_203_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Tuscany Suites & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$65",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/860000/853000/852937/c332fc6f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Four Queens Hotel and Casino (No Resort Fee)",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$64",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41000/40922/40922_80_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "South Point Hotel, Casino, and Spa",
+            "address": "Las Vegas",
+            "nightlyPrice": "$84",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1310000/1309600/1309521/1309521_176_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Planet Hollywood Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$121",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/15200/15117/8be67c43_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "888 Three Bedroom Two Bath Suite at Convention Center Condos",
+            "address": "Las Vegas",
+            "nightlyPrice": "$254",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/14000000/13260000/13258300/13258264/07cf1fa7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Main Street Station Hotel, Casino and Brewery",
+            "address": "Downtown Las Vegas",
+            "nightlyPrice": "$69",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/67300/67274/1fa99568_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Flamingo Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$91",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/14000/13945/f2ccfe19_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Raintree At Polo Towers, Las Vegas",
+            "address": "Las Vegas",
+            "nightlyPrice": "$199",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/9000000/8670000/8664000/8663954/361e5c46_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Wyndham Grand Desert",
+            "address": "Las Vegas",
+            "nightlyPrice": "$194",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/900000/894300/894235/894235_55_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "ARIA Resort & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$189",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/3000000/2570000/2565800/2565776/bf90b8ab_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Arizona Charlie's Decatur - Casino Hotel & Suites",
+            "address": "Las Vegas",
+            "nightlyPrice": "$54",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/920000/913100/913050/98e91c48_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Club De Soleil All-Suite Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$73",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/220000/215800/215776/bb4006e0_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Four Seasons Hotel Las Vegas",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$159",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/470000/460500/460435/1ada169e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "La Quinta Inn & Suites Las Vegas Airport North Convention",
+            "address": "Las Vegas",
+            "nightlyPrice": "$89",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/10600/10600/4d9ffa56_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Aliante Casino & Hotel",
+            "address": "North Las Vegas",
+            "nightlyPrice": "$79",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/3000000/2240000/2233300/2233237/a472a6b3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Desert Paradise Resort by Diamond Resorts",
+            "address": "Las Vegas",
+            "nightlyPrice": "$123",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/210000/202900/202850/202850_108_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Royal Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$65",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1560000/1551700/1551651/1551651_56_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Bellagio",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$241",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/150000/140600/140596/40701a6a_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Cancun Resort by Diamond Resorts",
+            "address": "Las Vegas",
+            "nightlyPrice": "$136",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1150000/1144100/1144016/1144016_114_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Arizona Charlie's Boulder - Casino Hotel, Suites, & RV Park",
+            "address": "Las Vegas",
+            "nightlyPrice": "$44",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/63100/63082/c1942f2c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Palace Station Hotel and Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$77",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/40800/40797/79f12dc4_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Desert Rose Resort",
+            "address": "Las Vegas",
+            "nightlyPrice": "$120",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/62900/62860/62860_178_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Rio All-Suite Hotel & Casino",
+            "address": "Las Vegas",
+            "nightlyPrice": "$59",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19900/19837/19837_153_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "Las Vegas",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Bally's Las Vegas - Hotel & Casino",
+            "address": "Las Vegas Strip",
+            "nightlyPrice": "$78",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7700/7611/8b8f751d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Peninsula New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$871",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/23900/23855/67899a5d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "PUBLIC, an Ian Schrager hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$295",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17120000/17117100/17117062/5501447e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Westgate New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$223",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/11700/11606/63c69a0e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Pod Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$206",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/20000000/19690000/19681400/19681371/145313b6_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Belvedere Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$254",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/110000/104200/104193/0db0d221_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Club Quarters Hotel, Wall Street",
+            "address": "Manhattan",
+            "nightlyPrice": "$211",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/42300/42271/87fa365b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Arlo NoMad",
+            "address": "Manhattan",
+            "nightlyPrice": "$314",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/13000000/12530000/12522000/12521969/25ce409d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The James New York - NoMad",
+            "address": "Manhattan",
+            "nightlyPrice": "$309",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17940000/17939200/17939186/5510df2b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Salisbury Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$279",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/26000/25906/4be9c969_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Frederick Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$206",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41900/41823/ea28ac3f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Aliz Hotel Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$302",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/25000000/24410000/24408400/24408324/3ef96e29_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Wellington Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$230",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25900/25888/f2c2d1ca_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "DoubleTree by Hilton Metropolitan - New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$191",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19800/19707/9a8ac89b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "YOTEL New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$219",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4190000/4182800/4182702/9bb952a3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The NoMad Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$356",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4760000/4758700/4758665/4758665_84_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Roosevelt Hotel, New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$280",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41900/41864/41864_172_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "World Center Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$233",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3020000/3016200/3016196/9c8ba081_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Studio Plus",
+            "address": "Manhattan",
+            "nightlyPrice": "$180",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/14000000/13250000/13246000/13245949/2a911cb9_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Concorde Hotel New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$282",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/26000000/25140000/25131000/25130973/9f84bb80_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Parker New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$373",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/22000000/21430000/21429600/21429545/a625dd2c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Manhattan at Times Square Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$232",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7500/7498/7498_106_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Shelburne Hotel & Suites by Affinia",
+            "address": "Manhattan",
+            "nightlyPrice": "$265",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/27300/27283/780e6a1e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Wagner Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$216",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/24000000/23030000/23029300/23029278/657ee79c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Langham, New York, Fifth Avenue",
+            "address": "Manhattan",
+            "nightlyPrice": "$480",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3630000/3630000/3629903/3629903_274_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Jewel facing Rockefeller Center",
+            "address": "Manhattan",
+            "nightlyPrice": "$265",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3930000/3928700/3928653/0494d25f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Pod 51",
+            "address": "Manhattan",
+            "nightlyPrice": "$185",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/5400/5358/0000713a_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Studio Apartment Unit #2- by The United Nations Studio Bedroom 1 Bathroom Condo",
+            "address": "Manhattan",
+            "nightlyPrice": "$189",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/31000000/30550000/30543100/30543058/df8c4424_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Empire Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$303",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/3700/3670/1e443e9d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Dream Downtown",
+            "address": "Manhattan",
+            "nightlyPrice": "$312",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4440000/4434200/4434143/4434143_99_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Arlo SoHo",
+            "address": "Manhattan",
+            "nightlyPrice": "$314",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/11000000/10630000/10624800/10624734/8fa93ec7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Pod 39",
+            "address": "Manhattan",
+            "nightlyPrice": "$204",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/6000000/5330000/5321600/5321579/5321579_49_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "citizenM New York Bowery",
+            "address": "Manhattan",
+            "nightlyPrice": "$279",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/23000000/22250000/22247400/22247316/cda480e0_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Gregory Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$293",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/6300/6284/86a901f2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Oakwood at The Nash",
+            "address": "Manhattan",
+            "nightlyPrice": "$318",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/23100/23068/2f9d1693_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Pierre, A Taj Hotel, New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$745",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/20300/20213/2265bc2b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Freehand New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$254",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/21000000/20880000/20875100/20875005/1e069f5b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Watson Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$224",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17140000/17137400/17137367/8419fc51_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hotel Hugo",
+            "address": "Manhattan",
+            "nightlyPrice": "$275",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7100000/7091100/7091064/d2293252_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Cachet Boutique New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$257",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4820000/4818600/4818574/dd414e5f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Park Lane Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$319",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/2800/2714/2714_235_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The New Yorker A Wyndham Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$233",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41100/41009/72601e74_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Roger Smith Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$260",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/6100/6023/6023_111_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hilton Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$266"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Standard East Village",
+            "address": "Manhattan",
+            "nightlyPrice": "$347",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/3000000/2180000/2175500/2175451/52bece1a_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Mondrian Park Avenue",
+            "address": "Manhattan",
+            "nightlyPrice": "$375",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17800000/17793500/17793410/24aa7836_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "RIU Plaza New York Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$323",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/12000000/11680000/11677800/11677770/2bc4a99f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Park West Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$172",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17320000/17319900/17319826/78191783_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Mayfair New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$195",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/40000/39800/39715/39715_28_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Park South Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$300",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/800000/792500/792443/d690f221_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hotel Boutique at Grand Central",
+            "address": "Manhattan",
+            "nightlyPrice": "$242",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/7000000/6260000/6256100/6256021/50a67f79_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "My Favorite Place B&B",
+            "address": "Manhattan",
+            "nightlyPrice": "$201",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/20000000/19010000/19005900/19005853/266de929_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Stewart Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$278",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/800/758/088b7fe2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hudson New York, Central Park",
+            "address": "Manhattan",
+            "nightlyPrice": "$301",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/540000/533700/533644/533644_266_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Loews Regency New York Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$529",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25600/25559/25559_196_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "1 Hotel Central Park",
+            "address": "Manhattan",
+            "nightlyPrice": "$499",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/10000000/9220000/9215600/9215515/002f1ec3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Peninsula New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$701",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/23900/23855/67899a5d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "PUBLIC, an Ian Schrager hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$262",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17120000/17117100/17117062/5501447e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Westgate New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$200",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/11700/11606/63c69a0e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Belvedere Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$214",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/110000/104200/104193/0db0d221_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Pod Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$177",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/20000000/19690000/19681400/19681371/145313b6_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Salisbury Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$237",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/26000/25906/4be9c969_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Pierre, A Taj Hotel, New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$672",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/20300/20213/2265bc2b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Club Quarters Hotel, Wall Street",
+            "address": "Manhattan",
+            "nightlyPrice": "$191",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/42300/42271/87fa365b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Wellington Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$193",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25900/25888/f2c2d1ca_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Aliz Hotel Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$266",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/25000000/24410000/24408400/24408324/3ef96e29_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Roosevelt Hotel, New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$241",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41900/41864/41864_172_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The James New York - NoMad",
+            "address": "Manhattan",
+            "nightlyPrice": "$268",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17940000/17939200/17939186/5510df2b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Manhattan at Times Square Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$193",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7500/7498/7498_106_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "DoubleTree by Hilton Metropolitan - New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$160",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19800/19707/9a8ac89b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Frederick Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$191",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41900/41823/ea28ac3f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Studio Plus",
+            "address": "Manhattan",
+            "nightlyPrice": "$173",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/14000000/13250000/13246000/13245949/2a911cb9_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Stewart Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$225",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/800/758/088b7fe2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Arlo SoHo",
+            "address": "Manhattan",
+            "nightlyPrice": "$260",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/11000000/10630000/10624800/10624734/8fa93ec7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Jewel facing Rockefeller Center",
+            "address": "Manhattan",
+            "nightlyPrice": "$236",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3930000/3928700/3928653/0494d25f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Pod 39",
+            "address": "Manhattan",
+            "nightlyPrice": "$183",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/6000000/5330000/5321600/5321579/5321579_49_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "World Center Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$203",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3020000/3016200/3016196/9c8ba081_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Shelburne Hotel & Suites by Affinia",
+            "address": "Manhattan",
+            "nightlyPrice": "$230",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/27300/27283/780e6a1e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Pod 51",
+            "address": "Manhattan",
+            "nightlyPrice": "$160",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/5400/5358/0000713a_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Watson Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$182",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17140000/17137400/17137367/8419fc51_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Park Lane Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$261",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/2800/2714/2714_235_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Concorde Hotel New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$248",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/26000000/25140000/25131000/25130973/9f84bb80_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Studio Apartment Unit #2- by The United Nations Studio Bedroom 1 Bathroom Condo",
+            "address": "Manhattan",
+            "nightlyPrice": "$189",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/31000000/30550000/30543100/30543058/df8c4424_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "citizenM New York Bowery",
+            "address": "Manhattan",
+            "nightlyPrice": "$244",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/23000000/22250000/22247400/22247316/cda480e0_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Millennium Broadway New York Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$279",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25500/25449/7ea670c9_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Mondrian Park Avenue",
+            "address": "Manhattan",
+            "nightlyPrice": "$321",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17800000/17793500/17793410/24aa7836_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Oakwood at The Nash",
+            "address": "Manhattan",
+            "nightlyPrice": "$318",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/23100/23068/2f9d1693_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Roger Smith Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$223",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/6100/6023/6023_111_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Gregory Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$252",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/6300/6284/86a901f2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Paramount Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$213",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/24300/24245/d11da326_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "1 Hotel Central Park",
+            "address": "Manhattan",
+            "nightlyPrice": "$432",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/10000000/9220000/9215600/9215515/002f1ec3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hotel Hugo",
+            "address": "Manhattan",
+            "nightlyPrice": "$246",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7100000/7091100/7091064/d2293252_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Empire Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$261",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/3700/3670/1e443e9d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Executive Hotel Le Soleil New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$272",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/11000000/10950000/10949000/10948924/0a65f96c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hotel 32 32",
+            "address": "Manhattan",
+            "nightlyPrice": "$188",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/3000000/2650000/2645800/2645725/e98a6fac_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Walker Hotel Greenwich Village",
+            "address": "New York",
+            "nightlyPrice": "$254",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/6000000/5400000/5399400/5399321/58b04007_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "YOTEL New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$207",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4190000/4182800/4182702/9bb952a3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hudson New York, Central Park",
+            "address": "Manhattan",
+            "nightlyPrice": "$250",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/540000/533700/533644/533644_266_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The New Yorker A Wyndham Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$192",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41100/41009/72601e74_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Parker New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$362",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/22000000/21430000/21429600/21429545/a625dd2c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Beekman Tower",
+            "address": "Manhattan",
+            "nightlyPrice": "$216",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/28000000/27350000/27347400/27347395/dd2fc0ff_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Wagner Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$207",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/24000000/23030000/23029300/23029278/657ee79c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Roger",
+            "address": "Manhattan",
+            "nightlyPrice": "$238",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/64200/64131/048b65a8_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Cachet Boutique New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$225",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4820000/4818600/4818574/dd414e5f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hotel Boutique at Grand Central",
+            "address": "Manhattan",
+            "nightlyPrice": "$215",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/7000000/6260000/6256100/6256021/50a67f79_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Row NYC",
+            "address": "Manhattan",
+            "nightlyPrice": "$210",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25100/25033/25033_177_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Freehand New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$226",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/21000000/20880000/20875100/20875005/1e069f5b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Langham, New York, Fifth Avenue",
+            "address": "Manhattan",
+            "nightlyPrice": "$463",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3630000/3630000/3629903/3629903_274_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Dream Downtown",
+            "address": "Manhattan",
+            "nightlyPrice": "$290",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4440000/4434200/4434143/4434143_99_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Arlo NoMad",
+            "address": "Manhattan",
+            "nightlyPrice": "$257",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/13000000/12530000/12522000/12521969/25ce409d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112318",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Loews Regency New York Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$499",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25600/25559/25559_196_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Peninsula New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$591",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/23900/23855/67899a5d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "PUBLIC, an Ian Schrager hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$295",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17120000/17117100/17117062/5501447e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Westgate New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$211",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/11700/11606/63c69a0e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Pod Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$189",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/20000000/19690000/19681400/19681371/145313b6_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Shelburne Hotel & Suites by Affinia",
+            "address": "Manhattan",
+            "nightlyPrice": "$209",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/27300/27283/780e6a1e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Belvedere Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$229",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/110000/104200/104193/0db0d221_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Arlo SoHo",
+            "address": "Manhattan",
+            "nightlyPrice": "$269",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/11000000/10630000/10624800/10624734/8fa93ec7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Club Quarters Hotel, Wall Street",
+            "address": "Manhattan",
+            "nightlyPrice": "$188",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/42300/42271/87fa365b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The James New York - NoMad",
+            "address": "Manhattan",
+            "nightlyPrice": "$271",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17940000/17939200/17939186/5510df2b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Roosevelt Hotel, New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$221",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41900/41864/41864_172_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Jewel facing Rockefeller Center",
+            "address": "Manhattan",
+            "nightlyPrice": "$215",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3930000/3928700/3928653/0494d25f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Concorde Hotel New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$235",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/26000000/25140000/25131000/25130973/9f84bb80_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Park Central Hotel New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$209",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/4200/4164/675037ae_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Langham, New York, Fifth Avenue",
+            "address": "Manhattan",
+            "nightlyPrice": "$412",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3630000/3630000/3629903/3629903_274_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Manhattan at Times Square Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$200",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7500/7498/7498_106_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Arlo SoHo",
+            "address": "Manhattan",
+            "nightlyPrice": "$269",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/11000000/10630000/10624800/10624734/8fa93ec7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hotel Beacon",
+            "address": "Manhattan",
+            "nightlyPrice": "$224",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7430000/7422500/7422476/8704f947_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Franklin Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$170",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25700/25664/25664_108_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "DoubleTree by Hilton Metropolitan - New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$177",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19800/19707/9a8ac89b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Studios in New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$231",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/27000000/26930000/26920300/26920224/3a6c87b5_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Salisbury Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$268",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/26000/25906/4be9c969_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Wagner Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$188",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/24000000/23030000/23029300/23029278/657ee79c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hudson New York, Central Park",
+            "address": "Manhattan",
+            "nightlyPrice": "$237",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/540000/533700/533644/533644_266_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The NoMad Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$356",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4760000/4758700/4758665/4758665_84_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Aliz Hotel Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$310",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/25000000/24410000/24408400/24408324/3ef96e29_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Empire Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$280",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/3700/3670/1e443e9d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Manhattan Club Suite Apartments",
+            "address": "Manhattan",
+            "nightlyPrice": "$418",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/31000000/30510000/30506700/30506625/d76a9c60_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Grand Hyatt New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$225",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/23700/23677/a017e86c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hotel 31",
+            "address": "Manhattan",
+            "nightlyPrice": "$117",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/800000/793800/793793/ae08f0a6_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Park Lane Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$280",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/2800/2714/2714_235_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Pod 39",
+            "address": "Manhattan",
+            "nightlyPrice": "$176",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/6000000/5330000/5321600/5321579/5321579_49_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Freehand New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$219",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/21000000/20880000/20875100/20875005/1e069f5b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "World Center Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$233",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3020000/3016200/3016196/9c8ba081_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Wellington Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$230",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25900/25888/f2c2d1ca_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Loews Regency New York Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$429",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25600/25559/25559_196_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Watson Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$197",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17140000/17137400/17137367/8419fc51_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Frederick Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$232",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41900/41823/ea28ac3f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Stewart Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$233",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/800/758/088b7fe2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Radio City Apartments",
+            "address": "Manhattan",
+            "nightlyPrice": "$426",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/7000000/6850000/6843000/6842904/6842904_52_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "RIU Plaza New York Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$296",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/12000000/11680000/11677800/11677770/2bc4a99f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Gansevoort Meatpacking",
+            "address": "New York",
+            "nightlyPrice": "$315",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/990000/987600/987554/20e76c8e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hotel Hugo",
+            "address": "Manhattan",
+            "nightlyPrice": "$257",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7100000/7091100/7091064/d2293252_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "LUMA Hotel Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$340",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/15000000/14790000/14786700/14786603/ecbb8cf6_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Loews Regency New York Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$429",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25600/25559/25559_196_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "YOTEL New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$234",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4190000/4182800/4182702/9bb952a3_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Hotel Mela Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$216",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1500000/1490100/1490016/06604936_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Nyma The New York Manhattan Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$189",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/490000/488200/488106/5a7ff793_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Carnegie Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$251",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/120000/118600/118531/233bae95_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Parker New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$386",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/22000000/21430000/21429600/21429545/a625dd2c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Paramount Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$207",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/24300/24245/d11da326_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Fitzpatrick Grand Central",
+            "address": "Manhattan",
+            "nightlyPrice": "$248",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/120000/119300/119276/2bb7c874_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Gregory Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$296",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/6300/6284/86a901f2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "Pod 51",
+            "address": "Manhattan",
+            "nightlyPrice": "$185",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/5400/5358/0000713a_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "The Pierre, A Taj Hotel, New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$625",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/20300/20213/2265bc2b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112518",
+        "data": {
+            "hotelName": "1 Hotel Brooklyn Bridge",
+            "address": "Brooklyn",
+            "nightlyPrice": "$479",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/16000000/15400000/15399700/15399642/87a36452_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Peninsula New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$591",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/23900/23855/67899a5d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "PUBLIC, an Ian Schrager hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$245",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17120000/17117100/17117062/5501447e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Westgate New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$182",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/11700/11606/63c69a0e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Belvedere Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$182",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/110000/104200/104193/0db0d221_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Pod Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$154",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/20000000/19690000/19681400/19681371/145313b6_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Park Central Hotel New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$159",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/4200/4164/675037ae_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "1 Hotel Brooklyn Bridge",
+            "address": "Brooklyn",
+            "nightlyPrice": "$394",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/16000000/15400000/15399700/15399642/87a36452_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The James New York - NoMad",
+            "address": "Manhattan",
+            "nightlyPrice": "$220",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17940000/17939200/17939186/5510df2b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Grand Hyatt New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$159",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/23700/23677/a017e86c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Club Quarters Hotel, Wall Street",
+            "address": "Manhattan",
+            "nightlyPrice": "$161",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/42300/42271/87fa365b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Shelburne Hotel & Suites by Affinia",
+            "address": "Manhattan",
+            "nightlyPrice": "$185",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/27300/27283/780e6a1e_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Park Lane Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$198",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/2800/2714/2714_235_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Jewel facing Rockefeller Center",
+            "address": "Manhattan",
+            "nightlyPrice": "$184",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3930000/3928700/3928653/0494d25f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Manhattan at Times Square Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$157",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/7500/7498/7498_106_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Arlo SoHo",
+            "address": "Manhattan",
+            "nightlyPrice": "$220",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/11000000/10630000/10624800/10624734/8fa93ec7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Roosevelt Hotel, New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$191",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41900/41864/41864_172_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Salisbury Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$211",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/26000/25906/4be9c969_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Studio Plus",
+            "address": "Manhattan",
+            "nightlyPrice": "$170",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/14000000/13250000/13246000/13245949/2a911cb9_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Concorde Hotel New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$207",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/26000000/25140000/25131000/25130973/9f84bb80_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "DoubleTree by Hilton Metropolitan - New York City",
+            "address": "Manhattan",
+            "nightlyPrice": "$137",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/20000/19800/19707/9a8ac89b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Wellington Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$174",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25900/25888/f2c2d1ca_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Watson Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$148",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/18000000/17140000/17137400/17137367/8419fc51_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Aliz Hotel Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$261",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/25000000/24410000/24408400/24408324/3ef96e29_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hudson New York, Central Park",
+            "address": "Manhattan",
+            "nightlyPrice": "$193",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/540000/533700/533644/533644_266_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Empire Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$219",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/3700/3670/1e443e9d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Pod 39",
+            "address": "Manhattan",
+            "nightlyPrice": "$153",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/6000000/5330000/5321600/5321579/5321579_49_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Studio Apartment Unit #2- by The United Nations Studio Bedroom 1 Bathroom Condo",
+            "address": "Manhattan",
+            "nightlyPrice": "$189",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/31000000/30550000/30543100/30543058/df8c4424_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "LUMA Hotel Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$275",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/15000000/14790000/14786700/14786603/ecbb8cf6_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "World Center Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$188",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3020000/3016200/3016196/9c8ba081_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Frederick Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$181",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41900/41823/ea28ac3f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Row NYC",
+            "address": "Manhattan",
+            "nightlyPrice": "$162",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25100/25033/25033_177_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Executive Hotel Le Soleil New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$234",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/11000000/10950000/10949000/10948924/0a65f96c_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Stewart Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$195",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/800/758/088b7fe2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Gregory Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$233",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/6300/6284/86a901f2_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Arlo NoMad",
+            "address": "Manhattan",
+            "nightlyPrice": "$238",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/13000000/12530000/12522000/12521969/25ce409d_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Studios in New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$225",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/27000000/26930000/26920300/26920224/3a6c87b5_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The New Yorker A Wyndham Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$161",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/50000/41100/41009/72601e74_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Paramount Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$166",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/24300/24245/d11da326_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "NoMo SoHo",
+            "address": "Manhattan",
+            "nightlyPrice": "$243",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3610000/3606300/3606282/3606282_118_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Freehand New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$194",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/21000000/20880000/20875100/20875005/1e069f5b_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Roger",
+            "address": "Manhattan",
+            "nightlyPrice": "$204",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/70000/64200/64131/048b65a8_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hotel Beacon",
+            "address": "Manhattan",
+            "nightlyPrice": "$217",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7430000/7422500/7422476/8704f947_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Michelangelo Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$229",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/22300/22265/22265_120_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Langham, New York, Fifth Avenue",
+            "address": "Manhattan",
+            "nightlyPrice": "$412",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/4000000/3630000/3630000/3629903/3629903_274_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Pod 51",
+            "address": "Manhattan",
+            "nightlyPrice": "$148",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/10000/5400/5358/0000713a_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Park South Hotel",
+            "address": "Manhattan",
+            "nightlyPrice": "$223",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/800000/792500/792443/d690f221_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hotel Hugo",
+            "address": "Manhattan",
+            "nightlyPrice": "$223",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/8000000/7100000/7091100/7091064/d2293252_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "citizenM New York Bowery",
+            "address": "Manhattan",
+            "nightlyPrice": "$234",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/23000000/22250000/22247400/22247316/cda480e0_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Millennium Broadway New York Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$266",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/25500/25449/7ea670c9_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Hotel Mela Times Square",
+            "address": "Manhattan",
+            "nightlyPrice": "$180",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/2000000/1500000/1490100/1490016/06604936_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Sanctuary NYC Retreats",
+            "address": "Manhattan",
+            "nightlyPrice": "$189",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/13000000/12360000/12355100/12355011/12355011_19_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Sanctuary Hotel New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$209",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4190000/4187700/4187606/924b73a1_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Cachet Boutique New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$205",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/5000000/4820000/4818600/4818574/dd414e5f_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "Arlo SoHo",
+            "address": "Manhattan",
+            "nightlyPrice": "$220",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/11000000/10630000/10624800/10624734/8fa93ec7_b.jpg\")"
+        }
+    },
+    {
+        "Website": "https://www.expedia.com",
+        "destination": "New York",
+        "CheckIn": "112418",
+        "Checkout": "112618",
+        "data": {
+            "hotelName": "The Pierre, A Taj Hotel, New York",
+            "address": "Manhattan",
+            "nightlyPrice": "$489",
+            "hotelIMG": "url(\"//images.trvl-media.com/hotels/1000000/30000/20300/20213/2265bc2b_b.jpg\")"
+        }
+    }
+]
